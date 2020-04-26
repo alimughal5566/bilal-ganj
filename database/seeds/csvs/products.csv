@@ -1,0 +1,35 @@
+bgshop_id,name,size,description,quantity,condition,in_stock,ucp,is_feature,model,discount
+1,Rim Pair,Small,it is rim of bikes,35,New,Yes,2400,No,2018,5
+1,Tyre Pair,Small,it is the tyre of bikes available in new condition of high statndard company,20,New,Yes,2500,No,2018,0
+1,Clutch Tappay Pair,Small,it is the bike clutch available in new condition.,50,New,Yes,1000,Yes,2018,2
+1,Shakh Pair,Small,it is bike shakh available in new condition with less price,50,New,Yes,1000,No,2017,0
+1,Silencer,Small,it is bike silencer available in new condition with less price,15,New,Yes,1500,No,2017,0
+2,Meera Engine,Large,it is meera car engine available in used condition.,2,Used,yes,28000,No,2008,5
+2,EK Wagon Engine,Large,it Ek wagon engine available in used condition.,2,Used,Yes,30000,No,2005,5
+2,Hyundai Engine,Large,it is Hyundai engine available in used condition.,2,Used,Yes,55000,Yes,2006,10
+2,Suzuki Engine,Large,it is suzuki engine available in used condition.,2,Used,Yes,65000,No,2007,0
+2,Suzuki hustler Engine,Large,it suzuki hustler engine available in used condition.,2,Used,Yes,65000,No,2007,0
+2,Hijet Engine,Large,it is hijet engine available in used condition with best price rate.,2,Used,Yes,70000,No,2007,0
+2,Hub Honda Engine,Large,it hub honda engine available in used condition.,2,Used,Yes,35000,No,2010,0
+3,N-Wagon Custom Headlights pair,Small,it is N-wagon custom headlights pair in new condition with affordable price available in stock,26,New,Yes,30000,No,2016,0
+3,N-Wagon Custom shoogrill,Medium,it is N-wagon custom shoogrill in new condition.,4,New,Yes,35000,Yes,2017,4
+3,N-Wagon Custome Bumper,Large,it is N-wagon custom bumper complete available at cheap rate.,18,Used,Yes,12000,No,2018,0
+3,N-Wagon Custom Bonnet,Medium,it is N-wagon custom bonnet with ever best quality,2,New,Yes,30000,No,2017,2
+3,Move Custom Headlights Pair,Small,it is move custom headligths pair which is available in stock,8,New,Yes,60000,No,2018,0
+3,Move Custom Shoogrill,Medium,it is move custom shoogrill with LED available in stoke with pakistan best quality stander,4,New,Yes,15000,Yes,2018,0
+3,Move Custom Bumper Complete,Medium,it is move custom bumper complete with reasonable price and quality,2,Used,Yes,50000,No,2015,2
+3,Move Custom Bonnet,Medium,it is move custom bonnet available in used condition,2,Used,Yes,30000,No,2019,0
+3,Wagon r Headligths Pair,Small,it is wagon r headlights pair available in new condition,25,New,Yes,28000,Yes,2018,0
+3,Wagon r Shoogrill,Medium,it is wagon r shoogrill available in new condition,8,New,Yes,15000,No,2017,10
+3,Wagon r Bumper,Medium,it is wagon r bumper complete available in used condition,4,Used,Yes,40000,No,2014,0
+3,Wagon r Bonnet,Medium,it is wagon r bonnet available in new condition ,4,New,Yes,35000,No,2018,20
+4,Corolla Door Left,Medium,it is corolla left door available in used condition,2,Used,Yes,25000,No,2016,0
+4,Corolla  Door Right,Medium,it corolla right door available in used condition,2,Used,Yes,27000,No,2016,0
+4,Corolla Right and Left Door,Medium,it corolla left and right door available in used condition,2,Used,Yes,50000,No,2016,20
+4,Corolla Dashboard,Large,it carolla dashboard available in used condition ,1,Used,Yes,135000,No,2016,0
+4,Corolla Complete Back Body,Large,it is corolla complete body available in used condition,1,Used,Yes,300000,No,2016,0
+4,Corolla Complete Black Back Body,Large,it is corolla complete black body available in used condition,1,Used,Yes,200000,No,2016,0
+4,Corolla Complete Back Body,Large,it is corolla complete body available in used condition,1,Used,Yes,300000,No,2015,0
+4,Corolla Headlights Pair,Small,it is corolla headlights pair available in used condition,20,Used,Yes,22000,No,2006,0
+4,Corolla Complete Staring,Medium,it is corolla staring available in used condition ,3,Used,Yes,25000,No,2006,0
+4,Corolla Bonnet,Medium,it is corolla bonnet available in used condition,3,Used,Yes,27000,No,2006,0

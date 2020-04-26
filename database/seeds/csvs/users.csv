@@ -1,0 +1,21 @@
+type,name,address,email,latitude,longitude,contact_number,is_active
+admin,admin123,Lahore,admin@gmail.com,31.6001,74.3397,3228596741,yes
+user ,Ali123,148 Rehman Shopping Center Shad Bagh Lahore Punjab Pakistan,user@gmail.com,31.6001,74.3397,3228574961,yes
+user ,bilal123,148 Rehman Shopping Center Shad Bagh Lahore Punjab Pakistan,user2@gmail.com,31.6001,74.3397,3418596741,yes
+user ,asim123,148 Rehman Shopping Center Shad Bagh Lahore Punjab Pakistan,user3@gmail.com,31.6001,74.3397,3108563412,yes
+user ,murriam123,148 Rehman Shopping Center Shad Bagh Lahore Punjab Pakistan,user4@gmail.com,31.6001,74.3397,3096345965,yes
+user ,adil123,148 Rehman Shopping Center Shad Bagh Lahore Punjab Pakistan,user5@gmail.com,31.6001,74.3397,3339625874,yes
+user ,amir123,148 Rehman Shopping Center Shad Bagh Lahore Punjab Pakistan,user6@gmail.com,31.6001,74.3397,3342296854,yes
+bgshop,M.Farooq,"Bilal Ganj, Lahore, Pakistan",vendor@gmail.com,31.5802931,74.3011878,3217744752,yes
+bgshop,M.Hamza,"Bilal Ganj, Lahore, Pakistan",vendor2@gmail.com,31.5802931,74.3011878,3134068927,yes
+bgshop,M.Yaseen,"Bilal Ganj, Lahore, Pakistan",vendor3@gmail.com,31.5802931,74.3011878,3232417589,yes
+bgshop,M.Khalid,"Bilal Ganj, Lahore, Pakistan",vendor4@gmail.com,31.5802931,74.3011878,3009423091,yes
+agent,awais123,Lahore,agent@gmail.com,31.6001,74.3397,3059874563,yes
+agent,fahad123,Lahore,agent2@gmail.com,31.6001,74.3397,3025896742,yes
+agent,shoaib123,Lahore,agent3@gmail.com,31.6001,74.3397,3246985741,yes
+rider,riderAli,Lahore,rider@gmail.com,31.6001,74.3397,3449685214,yes
+rider,riderHamza,Lahore,rider2@gmail.com,31.6001,74.3397,3128562314,yes
+rider,riderSufyan,Lahore,rider3@gmail.com,31.6001,74.3397,3221698742,yes
+rider,riderAdil,Lahore,rider4@gmail.com,31.6001,74.3397,3139652874,yes
+rider,riderAsim,Lahore,rider5@gmail.com,31.6001,74.3397,3339625874,yes
+rider,riderBilal,Lahore,rider6@gmail.com,31.6001,74.3397,3028561479,yes

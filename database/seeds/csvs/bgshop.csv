@@ -1,0 +1,5 @@
+user_id,agent_id,shop_name,opening_time,closing_time,is_verified,credit
+8,1,M Faqooq Auto Parts,9:00:00,18:00:00,yes,500
+9,1,Hamza Autos,9:00:00,18:00:00,yes,500
+10,2,AL-MAIDAH TRADING,9:00:00,18:00:00,yes ,500
+11,3,Mashallah Autos,9:00:00,18:00:00,yes,500
